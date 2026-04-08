@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! I'm Jaime Fernandez Barragan 👋
 
-<!--
-**Jaimeferrr/Jaimeferrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 IT Technician & Backend Developer
+I bridge the gap between hardware infrastructure and software development. Currently studying a **Higher Degree in Multi-platform Applications (DAM)** and specializing in the **Java Ecosystem**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+- **Backend:** Java, Spring Boot, Spring Data JPA.
+- **API Development:** Building secure RESTful APIs.
+- **Security:** Implementation of Login, Registration, and Auth systems.
+- **Databases:** MySQL, PostgreSQL & Database Modeling.
+- **Systems:** IT Support, Networking, and Infrastructure Management.
+
+---
+
+### 🛠 My Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 Current Focus
+- 🔭 **Project:** Developing robust APIs with Spring Boot.
+- 🌱 **Learning:** Deep diving into Spring Security and Microservices.
+- ⚡ **Fun Fact:** My background as an IT Technician allows me to understand not just the code, but the environment where it lives.
+
+---
+
+### 🤝 Connect with me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjaime345@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaimeferrr&show_icons=true&theme=radical" alt="Jaime's GitHub Stats" />
+</p>
