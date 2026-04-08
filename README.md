@@ -30,12 +30,6 @@ I bridge the gap between hardware infrastructure and software development. Curre
 - 🌱 **Learning:** Deep diving into Spring Security and Microservices.
 - ⚡ **Fun Fact:** My background as an IT Technician allows me to understand not just the code, but the environment where it lives.
 
----
-
-### 🤝 Connect with me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fjaime345@gmail.com)
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaimeferrr&show_icons=true&theme=radical" alt="Jaime's GitHub Stats" />
