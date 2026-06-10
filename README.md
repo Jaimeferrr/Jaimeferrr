@@ -26,6 +26,4 @@ I bridge the gap between hardware infrastructure, systems architecture, and robu
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- 🌱 **Learning:** Deep diving into Spring Security and Microservices.
-- ⚡ **Fun Fact:** My background as an IT Technician allows me to understand not just the code, but the environment where it lives.
 
